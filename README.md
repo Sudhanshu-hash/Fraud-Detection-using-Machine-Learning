@@ -5,7 +5,7 @@ This project focuses on building a machine learning model to detect fraudulent f
 
 Goal: To build a machine learning–based fraud detection system that identifies fraudulent financial transactions by analyzing transaction behavior, balance changes, and transaction types, and to derive actionable fraud prevention insights.
 
-1. Data Source and Cleaning:
+1. ***Data Source and Cleaning:***
 
 Source: Financial transaction dataset provided as part of the Accredian Data Science assignment.
 
@@ -16,7 +16,7 @@ Understanding:
 Each row represents a single transaction. The dataset includes both normal and fraudulent transactions, with a highly imbalanced target variable (isFraud).
 
 ---
-2. Data Cleaning and Preprocessing
+2. ***Data Cleaning and Preprocessing***
 
 Purpose:
 To ensure data quality and prepare features for machine learning.
@@ -34,7 +34,7 @@ Removed identifier columns (nameOrig, nameDest) as they do not contribute to pre
 Encoded the categorical type column into numerical form for model compatibility.
 
 ---
-3. Feature Selection and Dataset Preparation
+3. ***Feature Selection and Dataset Preparation***
 
 Logic:
 Relevant transaction-related features were selected based on domain knowledge and fraud behavior patterns.
