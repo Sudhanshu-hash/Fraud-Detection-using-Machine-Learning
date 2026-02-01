@@ -7,6 +7,8 @@ Goal: To build a machine learning–based fraud detection system that identifies
 1. ***Data Source and Cleaning:***
 
 Source: Financial transaction dataset provided as part of the Accredian Data Science assignment.
+⚠️ Note: The dataset is not included in this repository due to its large size (~450 MB).
+
 
 
 Initial Data: Raw transaction data stored in ***Fraud.csv*** containing transaction details such as amount, type, balances, and fraud labels.
