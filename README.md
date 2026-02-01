@@ -106,3 +106,7 @@ This project demonstrates an end-to-end machine learning workflow for fraud dete
 5. ***Connect with Me***
 
 If you have any questions about this project, want to discuss data strategy, or are interested in collaboration, feel free to connect!
+
+| LinkedIn | Sudhanshu Joshi (https://www.linkedin.com/in/sudhanshu-joshi15) |
+
+| Email | sudhanshujoshi6009@gmail.com |
