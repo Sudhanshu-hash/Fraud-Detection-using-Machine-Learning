@@ -1,7 +1,6 @@
 # Fraud-Detection-using-Machine-Learning
 This project focuses on building a machine learning model to detect fraudulent financial transactions using historical transaction data. The objective is to identify suspicious transactions and provide insights that can help organizations reduce financial fraud.
 
-# Amazon-Sales-Data-Analysis-Visualization
 
 Goal: To build a machine learning–based fraud detection system that identifies fraudulent financial transactions by analyzing transaction behavior, balance changes, and transaction types, and to derive actionable fraud prevention insights.
 
